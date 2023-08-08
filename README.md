@@ -20,3 +20,10 @@ After entering an event, click the "Save" button in that time block to store the
 Your events persist even after refreshing the page.
 
 Effortlessly manage your daily schedule and stay organized! 
+
+
+## Credits
+Materials used to facilitate the learning experience can be found via the links below:
+
+JQuery Docs
+day.js
