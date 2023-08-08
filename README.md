@@ -34,5 +34,5 @@ Materials used to facilitate the learning experience can be found via the links 
 ## Links
 You can access the website page by clicking on the link below.
 
-Deployment Page: 
+Deployment Page:  https://maxwella10.github.io/Work-Day-Scheduler/
  
