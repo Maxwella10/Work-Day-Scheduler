@@ -25,6 +25,8 @@ Effortlessly manage your daily schedule and stay organized!
 ## Credits
 Materials used to facilitate the learning experience can be found via the links below:
 
-JQuery Docs
+ JQuery Docs
+ 
 
-day.js
+ day.js
+ 
