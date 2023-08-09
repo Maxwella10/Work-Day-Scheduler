@@ -30,6 +30,8 @@ Materials used to facilitate the learning experience can be found via the links 
 
  day.js
 
+## Screenshots
+![imgOne](./images/imgOne.png)
 
 ## Links
 You can access the website page by clicking on the link below.
